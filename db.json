@@ -1,7 +1,7 @@
 {
 	"directory": "/root/user/home/",
 	"currentDirectory": "home",
-	folderList: [
+	"folderList": [
 		{
 			"id": "FOLDERITEM_1",
 			"name": "new folder",
@@ -21,7 +21,7 @@
 			"size": 22837128
 		}
 	],
-	fileList: [
+	"fileLis"t: [
 		{
 			"id": "FILEITEM_1",
 			"name": "Genshin Impact",
